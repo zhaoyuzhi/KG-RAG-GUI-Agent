@@ -1,0 +1,4 @@
+app_name: vip
+id: vip02
+intent: 查看我订阅的品牌
+package_name: com.achievo.vipshop

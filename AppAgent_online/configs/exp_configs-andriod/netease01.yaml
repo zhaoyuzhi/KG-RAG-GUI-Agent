@@ -1,0 +1,4 @@
+app_name: netease
+id: netease01
+intent: 查看'关于网易云音乐'
+package_name: com.netease.cloudmusic

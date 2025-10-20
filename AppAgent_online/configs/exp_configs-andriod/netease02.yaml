@@ -1,0 +1,4 @@
+app_name: netease
+id: netease02
+intent: 从每日推荐中播放歌曲
+package_name: com.netease.cloudmusic

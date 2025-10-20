@@ -1,0 +1,4 @@
+app_name: netease
+id: netease00
+intent: 查看我的设置
+package_name: com.netease.cloudmusic

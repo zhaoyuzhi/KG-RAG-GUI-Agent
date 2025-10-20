@@ -1,0 +1,4 @@
+app_name: ctrip
+id: ctrip03
+intent: 携程查看一日游列表
+package_name: ctrip.android.view

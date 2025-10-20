@@ -1,0 +1,22 @@
+max_n_steps: 10
+max_n_trials: 1
+data_dir: data
+log_dir: logs
+
+defaults:
+  - exp_configs: meituan04.yaml
+
+hydra:
+  run:
+    dir: ${log_dir}/${exp_configs.app_name}_${exp_configs.intent}
+  job_logging:
+    formatters:
+      simple:
+        format: '%(asctime)s - %(message)s'
+    handlers:
+      file:
+        encoding: utf-8
+
+  sweep:
+    dir: ${log_dir}
+    subdir: ${now:%Y-%m-%d}/${now:%H-%M-%S}/${exp_configs.app_name}_${exp_configs.intent}

@@ -1,0 +1,4 @@
+app_name: ctrip
+id: ctrip01
+intent: 携程查询火车票
+package_name: ctrip.android.view

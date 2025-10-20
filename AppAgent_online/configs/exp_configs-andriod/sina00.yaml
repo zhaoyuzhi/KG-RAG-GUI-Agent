@@ -1,0 +1,4 @@
+app_name: sina
+id: sina00
+intent: 搜索人民日报并查看一条微博
+package_name: com.sina.weibo

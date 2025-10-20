@@ -1,0 +1,4 @@
+app_name: dragon
+id: dragon00
+intent: 搜索书籍并观看
+package_name: com.dragon.read

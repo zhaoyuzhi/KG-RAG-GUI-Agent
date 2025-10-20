@@ -1,0 +1,4 @@
+app_name: sina
+id: sina01
+intent: 查看'@我的'消息
+package_name: com.sina.weibo.stage

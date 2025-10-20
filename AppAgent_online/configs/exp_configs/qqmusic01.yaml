@@ -1,0 +1,4 @@
+app_name: qqmusic
+id: qqmusic01
+intent: QQ音乐查看我收藏的音乐并播放
+package_name: com.tencent.hm.qqmusic

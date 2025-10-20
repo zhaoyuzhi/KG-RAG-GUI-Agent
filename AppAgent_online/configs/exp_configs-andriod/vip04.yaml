@@ -1,0 +1,4 @@
+app_name: vip
+id: vip04
+intent: 搜索'运动鞋男'并查看详情
+package_name: com.achievo.vipshop

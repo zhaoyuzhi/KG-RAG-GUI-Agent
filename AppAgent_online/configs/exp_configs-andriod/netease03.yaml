@@ -1,0 +1,4 @@
+app_name: netease
+id: netease03
+intent: 网易云音乐搜索歌曲
+package_name: com.netease.cloudmusic

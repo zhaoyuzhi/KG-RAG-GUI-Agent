@@ -1,0 +1,4 @@
+app_name: vip
+id: vip00
+intent: 查看订单详情
+package_name: com.vip.hosapp

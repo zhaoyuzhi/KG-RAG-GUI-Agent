@@ -1,0 +1,4 @@
+app_name: qqmusic
+id: qqmusic02
+intent: QQ音乐查看'每日30首'并播放
+package_name: com.tencent.hm.qqmusic

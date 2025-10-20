@@ -1,0 +1,4 @@
+app_name: qqmusic
+id: qqmusic00
+intent: QQ音乐查看本地音乐
+package_name: com.tencent.hm.qqmusic

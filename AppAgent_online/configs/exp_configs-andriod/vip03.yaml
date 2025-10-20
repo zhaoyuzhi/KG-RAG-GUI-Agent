@@ -1,0 +1,4 @@
+app_name: vip
+id: vip03
+intent: 唯品会购买商品
+package_name: com.achievo.vipshop

@@ -1,0 +1,4 @@
+app_name: sina
+id: sina02
+intent: 查看一篇微博并收藏
+package_name: com.sina.weibo

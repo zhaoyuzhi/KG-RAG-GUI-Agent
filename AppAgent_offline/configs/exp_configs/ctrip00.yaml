@@ -1,0 +1,4 @@
+app_name: ctrip
+id: ctrip00
+intent: 携程搜索并查看上海酒店
+package_name: com.ctrip.harmonynext

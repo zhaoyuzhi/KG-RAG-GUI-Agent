@@ -1,0 +1,4 @@
+app_name: vip
+id: vip01
+intent: 查看收藏的商品详情
+package_name: com.achievo.vipshop

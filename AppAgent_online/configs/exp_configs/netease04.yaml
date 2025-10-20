@@ -1,0 +1,4 @@
+app_name: netease
+id: netease04
+intent: 打开扫码功能
+package_name: com.netease.cloudmusic.hm
